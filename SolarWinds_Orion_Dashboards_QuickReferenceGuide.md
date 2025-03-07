@@ -102,7 +102,7 @@ Dashboards can include maps, charts, KPIs, tables, and more, customizable to you
 
 ## Tips & Tricks
 - **Permissions:** Ensure "Manage Dashboards" or "Allow Administrator Rights" is enabled for full control.
-- **SWQL:** Use SWQL Studio (from Orion SDK) to test complex queries for Modern Dashboards.
+- **SWQL:** Use SWQL Studio (https://github.com/solarwinds/OrionSDK/releases/tag/v3.2.0.50049) to test complex queries for Modern Dashboards.
 - **Performance:** Limit widgets per dashboard to avoid slow load times.
 - **NOC Mode:** Enable for full-screen, rotating views (`Customize Page > Enable NOC View` for Classic).
 - **Browser Compatibility:** Modern Dashboards don’t support IE11; use Chrome, Firefox, or Edge.

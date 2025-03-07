@@ -118,29 +118,6 @@ Dashboards can include maps, charts, KPIs, tables, and more, customizable to you
 
 ## References
 
-I’ve searched the web for existing **SolarWinds Dashboards Quick Reference Guides** that are publicly available as of March 7, 2025. Below are some relevant links to resources that either directly provide quick reference-style guidance or closely align with your request. Note that SolarWinds documentation often requires a login to the Customer Portal for full access, and some community content may not be formatted as a traditional "quick reference guide" but still offers concise, actionable info.
-
-### Official SolarWinds Documentation
-1. **[Dashboard Widgets - SolarWinds Documentation](https://documentation.solarwinds.com/en/success_center/swsd/content/widgets.htm)**  
-   - Covers dashboard widgets for SolarWinds Service Desk (SWSD), including how to add, edit, and customize them. While not a standalone quick reference guide, it’s a concise starting point for widget-specific tasks.
-
-2. **[Customize Modern Dashboards - SolarWinds Documentation](https://documentation.solarwinds.com/en/success_center/orionplatform/content/core-customize-modern-dashboards.htm)**  
-   - A step-by-step guide for creating and customizing Modern Dashboards in the Orion Platform. It’s detailed but includes quick instructions for common actions like adding widgets and resizing them.
-
-3. **[Dashboards or Views - SolarWinds Documentation](https://documentation.solarwinds.com/en/success_center/orionplatform/content/core-dashboards-or-views.htm)**  
-   - Explains both Classic and Modern Dashboards with brief instructions on managing them. Useful for a high-level overview and quick navigation tips.
-
-4. **[Widget Configuration Examples - SolarWinds Documentation](https://documentation.solarwinds.com/en/success_center/orionplatform/content/core-widget-configuration-examples.htm)**  
-   - Provides specific examples (e.g., adding maps, filtering nodes) that serve as quick references for common widget customizations in Classic Dashboards.
-
-### Community and Blog Resources
-5. **[THWACK - All in on Modern Dashboards](https://thwack.solarwinds.com/resources/product-forum-blogs/solarwinds-observability-self-hosted-formerly-hybrid-cloud-observability/all-in-on-modern-dashboards)**  
-   - A blog post from March 2023 by a SolarWinds partner detailing Modern Dashboard creation with examples (e.g., replacing NPM Summary). It’s not a formal quick reference but offers practical, concise steps and SWQL examples.
-
-6. **[Loop1 Blog - Maximize Your SolarWinds Dashboard](https://www.loop1.com/maximize-your-solarwinds-dashboard/)**  
-   - Posted on March 5, 2025 (via X), this blog provides expert tips on optimizing dashboard layouts. It’s a short, actionable guide focused on efficiency, though not a full reference.
-
-### Additional Notes
 - **THWACK Community:** (https://thwack.solarwinds.com/) The SolarWinds THWACK forum (e.g., posts like "How to do various customizations" from 2019) contains user-shared tips and scripts, but no single post stands out as a complete quick reference guide. You’d need to search specific threads for concise advice.
 
 - **Video Content:** 

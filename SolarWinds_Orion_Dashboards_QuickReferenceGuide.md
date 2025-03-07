@@ -118,7 +118,7 @@ Dashboards can include maps, charts, KPIs, tables, and more, customizable to you
 
 ## References
 
-- **THWACK Community:** (https://thwack.solarwinds.com/) The SolarWinds THWACK forum (e.g., posts like "How to do various customizations" from 2019) contains user-shared tips and scripts, but no single post stands out as a complete quick reference guide. You’d need to search specific threads for concise advice.
+- **THWACK Community:** (https://thwack.solarwinds.com/) The SolarWinds THWACK forum.
 
 - **Video Content:** 
 1. https://youtu.be/9T1VlIvAfdo?si=9oQLAgbS_Ap_ZoPZ

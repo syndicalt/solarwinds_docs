@@ -53,7 +53,7 @@ For more detailed instructions and advanced features, consider the following res
 - **Community Forum**: [Good Charts or Graphs for NOC View](https://www.reddit.com/r/Solarwinds/comments/75y6qd/good_charts_or_graphs_for_noc_view/)  
 - **SolarWinds THWACK Community**: [SolarWinds Community Forum](http://thwack.solarwinds.com/) for additional tips and discussions.
 
-Citations:
+Citations:  
 [1] https://documentation.solarwinds.com/en/success_center/orionplatform/content/core-using-and-configuring-noc-views-sw728.htm  
 [2] https://www.reddit.com/r/Solarwinds/comments/75y6qd/good_charts_or_graphs_for_noc_view/  
 [3] https://documentation.solarwinds.com/en/success_center/npm/content/onboarding/custom_views_maps/npm_ob_creating_a_noc_view.htm  
